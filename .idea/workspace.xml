@@ -4,27 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/file/MyReader.java" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc3b220b-7a33-4a69-b7e6-fb12d9844eb5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/IClosable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/exceptions/CloseExceptions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/string/StringReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/string/StringWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/FormatterTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/homeworkio.iml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/io/Formatter.java" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/Formatter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/io/Homeworkio.java" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/io/IReader.java" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/IReader.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/io/IWritter.java" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/IWritter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/io/MyReader.java" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/file/MyReader.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/homework/io/MyWritter.java" afterPath="$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/file/MyWritter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/homework/io/MyWritter.class" afterPath="$PROJECT_DIR$/target/classes/homework/io/MyWritter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input.java" afterPath="$PROJECT_DIR$/input.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output.java" afterPath="$PROJECT_DIR$/output.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="fc3b220b-7a33-4a69-b7e6-fb12d9844eb5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/IClosable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -491,11 +471,18 @@
       <option name="presentableId" value="Default" />
       <updated>1509532169865</updated>
     </task>
+    <task id="LOCAL-00001" summary="for replace">
+      <created>1510721052665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510721052665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -503,7 +490,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983193" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -524,6 +511,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="for replace" />
+    <option name="LAST_COMMIT_MESSAGE" value="for replace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -916,7 +907,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sevenbits/formatter/IClosable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
