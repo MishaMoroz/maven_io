@@ -1,4 +1,4 @@
-package homework.io;
+package com.sevenbits.formatter;
 
 import java.io.IOException;
 

@@ -1,13 +1,15 @@
-package homework.io;
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
+package com.sevenbits.formatter.file;
+
+import com.sevenbits.formatter.IClosable;
+import com.sevenbits.formatter.IReader;
 
 import java.io.*;
 
-public class MyReader implements IReader{
+public class MyReader implements IReader, IClosable {
     private InputStreamReader reader = null;
     private FileInputStream file = null;
 
-    MyReader(String sourceFile) throws IOException{
+    public MyReader(String sourceFile) throws IOException{
         file = new FileInputStream(sourceFile);
         reader = new InputStreamReader(file, "UTF-8");
     }

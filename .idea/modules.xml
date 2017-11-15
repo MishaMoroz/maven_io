@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/homeworkio.iml" filepath="$PROJECT_DIR$/homeworkio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formatter.iml" filepath="$PROJECT_DIR$/formatter.iml" />
     </modules>
   </component>
 </project>

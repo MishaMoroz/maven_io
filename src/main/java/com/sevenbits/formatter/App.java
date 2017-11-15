@@ -1,7 +1,11 @@
-package homework.io;
+package com.sevenbits.formatter;
+
+import com.sevenbits.formatter.file.MyReader;
+import com.sevenbits.formatter.file.MyWritter;
+
 import java.io.*;
 
-public class Homeworkio {
+public class App {
     public static void main(String[] args) {
 
 

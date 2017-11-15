@@ -1,11 +1,16 @@
-package homework.io;
+package com.sevenbits.formatter.file;
+
+import com.sevenbits.formatter.IClosable;
+import com.sevenbits.formatter.IWritter;
+//import com.sevenbits.formatter.IClosable;
+
 
 import java.io.*;
 
-public class MyWritter implements IWritter{
+public class MyWritter implements IWritter, IClosable {
     private FileWriter writer = null;
 
-    MyWritter(String sourseFile) throws IOException{
+    public MyWritter(String sourseFile) throws IOException{
         writer = new FileWriter(sourseFile, true);
     }
 
@@ -17,6 +22,9 @@ public class MyWritter implements IWritter{
         for(int i=0; i<lvl; i++)
         writer.write("    ");
         writer.flush();
+    }
+    public void close() throws IOException{
+        writer.close();
     }
 
 }

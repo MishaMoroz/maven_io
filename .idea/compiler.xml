@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="formatter" />
         <module name="homeworkio" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="homeworkio" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="formatter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
